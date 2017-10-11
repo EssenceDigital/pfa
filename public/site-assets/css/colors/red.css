@@ -1,0 +1,224 @@
+@charset "utf-8";
+/* CSS Document */
+
+#navigation ul.nav a:hover {
+	color: #f83131;
+	border-top-color: #f83131;
+}
+#navigation ul.nav .active a {
+	color: #f83131;
+	border-top-color: #f83131;
+}
+#navigation ul.dropdown-menu li a:hover {
+	color: #f83131!important;
+}
+ol.breadcrumb li.active {
+	color: #f83131;
+}
+.engage h1 {
+	color: #f83131;
+}
+.index-blocks .box h1 i {
+	color: #f83131;
+}
+.index-pricing .block h1 .blue {
+	color: #f83131;
+}
+.about-us .intro h1 {
+	color: #f83131;
+}
+.team h1 {
+	color: #f83131;
+}
+.team .block .info .dept {
+	color: #f83131;
+}
+.team .block ul.social-icons li a:hover {
+	color: #f83131;
+}
+.blog .post:hover .date {
+	background-color: #f83131;
+}
+.blog .post-detail:hover .date {
+	background-color: #f83131;
+}
+.about-autor {
+	background-color: #f83131;
+}
+.blog .comments .media-body a.reply {
+	background-color: #f83131;
+	border: 1px solid #f83131;
+}
+.blog .comments .media-body a.reply:hover {
+	border: 1px solid #f83131;
+}
+.blog .leave-a-comment form .btn-default {
+	background-color: #f83131;
+	border: 2px solid #f83131;
+}
+.blog .leave-a-comment form .btn {
+	border: 2px solid #f83131;
+}
+.blog .leave-a-comment form .btn-default:hover {
+	color: #f83131;
+	border: 2px solid #f83131;
+}
+.sidebar .categories ul li a:hover {
+	color: #f83131;
+}
+.sidebar .latest-news ul li .info .comment i {
+	color: #f83131;
+}
+.schedule .intro h1 {
+	color: #f83131;
+}
+.schedule .schedule-table .table>thead>tr>th {
+	background-color: #f83131;
+}
+.schedule .schedule-table .table>tfoot>tr>th:first-child {
+	background-color: #f83131;
+}
+.events .intro h1 {
+	color: #f83131;
+}
+.events .events-table .table>thead>tr>th {
+	background-color: #f83131;
+}
+.events-details .intro h1 {
+	color: #f83131;
+}
+.events-details .events-carousel .picture .date {
+	background-color: #f83131;
+}
+.classes .intro h1 {
+	color: #f83131;
+}
+.classes .block .info .name {
+	color: #f83131;
+}
+.classes .block .info ul.social-icons li:hover {
+	color: #f83131;
+	border: 2px solid #f83131;
+}
+.classes .block .info ul.social-icons li:hover a {
+	color: #f83131;
+}
+.classes .block .more-info .complexity ul.stars li {
+	color: #f83131;
+}
+.classes .block .more-info .persons .number {
+	background-color: #f83131;
+}
+.classes-details .intro h1 {
+	color: #f83131;
+}
+.trainer .intro h1 {
+	color: #f83131;
+}
+.trainer .block .info .name {
+	color: #f83131;
+}
+.trainer .block .info ul.social-icons li:hover {
+	color: #f83131;
+	border: 2px solid #f83131;
+}
+.trainer .block .info ul.social-icons li:hover a {
+	color: #f83131;
+}
+.trainer-details .intro h1 {
+	color: #f83131;
+}
+.stories .intro h1 {
+	color: #f83131;
+}
+.testimonial .description .quote {
+	background-color: #f83131;
+}
+.prices .intro h1 {
+	color: #f83131;
+}
+.prices .packages .block .price {
+	border: 6px solid #f83131;
+}
+.prices .packages .block:hover {
+	background-color: #f83131;
+}
+.prices .packages .block:hover .price {	
+	border: 6px solid #9b3232;
+}
+.prices .packages .block:hover .button a.fill {
+	border: 1px solid #f83131;
+	color: #f83131;
+}
+.prices .packages .block:hover .button a.fill {
+	border: 1px solid #f83131;
+	color: #f83131;
+}
+.contacts h1 {
+	color: #f83131;
+}
+.contacts form .btn-default {
+	background-color: #f83131;
+	border: 2px solid #f83131;
+}
+.contacts form .btn {
+	border: 2px solid #f83131;
+}
+.contacts form .btn-default:hover {
+	color: #f83131;
+	border: 2px solid #f83131;
+}
+.contacts .postal-address ul li:hover .icon {
+	background-color: #f83131;
+}
+.contacts .postal-address ul li a:hover {
+	color: #f83131;
+}
+footer .links ul li a:hover {
+	color: #f83131;
+}
+footer .links ul li a:hover:before {
+	color: #f83131;
+}
+footer .links .instagram {
+	color: #f83131;
+}
+.copyright a {
+	color: #f83131;
+}
+.copyright ul.social-icons li a:hover {
+	color: #f83131;
+}
+.button a.fill {
+	border: 1px solid #f83131;
+	background-color: #f83131;
+}
+.button a.fill:hover {
+	border: 1px solid #f83131;
+	color: #f83131;
+}
+.big-button a.blue-fill {
+	border: 1px solid #f83131;
+	background-color: #f83131;
+}
+.big-button a.blue-fill:hover {
+	border: 1px solid #f83131;
+	color: #f83131;
+}
+.blue-text {
+	color: #f83131;
+}
+.blue-bg {
+	background-color: #f83131;
+}
+#navigation ul.nav a:hover {
+	color: #f83131;
+	border-top-color: #f83131;
+}
+#navigation ul.nav .active a {
+	color: #f83131;
+	border-top-color: #f83131;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+	background: #f83131
+}
