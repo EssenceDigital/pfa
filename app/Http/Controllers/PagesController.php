@@ -158,7 +158,7 @@ class PagesController extends Controller
             return redirect('contact-us');    
         }
 
-        Mail::to('bradthebrickwall@hotmail.com')->send(new SendContact(
+        Mail::to(env('CONTACT_EMAIL'))->send(new SendContact(
             [
                 'from' => $request->email,
                 'name' => $request->name,
